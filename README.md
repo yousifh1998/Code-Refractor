@@ -25,3 +25,6 @@ THEN I find a concise, descriptive title
 ```
 Description
 
+Made several changes to the semantic elements, located numerous non semantic elements and fixed them with their corresponding tag. 
+Added alt attributes to the image url's as well as their missing titles
+Deleted numerous duplicate sections within the style.css section, updated the class tag and replaced a few class tags with id tags. Lastly added a unique title to the webpage.
